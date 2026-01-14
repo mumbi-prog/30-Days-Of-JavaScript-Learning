@@ -44,3 +44,29 @@ console.log(laptop)
 console.log(company_years)
 console.log($pets)
 console.log(is_sick)
+
+// Q8
+
+let firstName = 'Sylvia'
+let lastName = 'Mumbi'
+let marital_status = 'LOL'
+let country = 'Kenya'
+let age = 50
+
+console.log (firstName)
+console.log(lastName)
+console.log(marital_status)
+console.log(country)
+console.log(age)
+
+// Q9
+
+let myInfo = {
+    firstName : 'Sylvia',
+    lastName : 'Mumbi',
+    marital_status : 'married',
+    country : 'Kenya',
+    age : 60
+}
+
+console.log(myInfo)
