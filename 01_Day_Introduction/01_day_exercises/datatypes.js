@@ -21,3 +21,15 @@ let greet = function () {
 };
 console.log(typeof greet);
 
+// Q6
+
+let city
+let myCountry
+let instagram_account
+var surname
+
+console.log(city)
+console.log(myCountry)
+console.log(instagram_account)
+console.log(surname)
+
