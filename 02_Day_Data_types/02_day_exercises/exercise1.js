@@ -15,5 +15,9 @@ console.log(challengeUpper)
 let challengeLower = challenge.toLowerCase()
 console.log(challengeLower)
 
+// q6
+let challengeSliced = challenge.substr(3)
+console.log(challengeSliced)
+
 
 
