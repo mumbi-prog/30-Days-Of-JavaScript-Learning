@@ -19,5 +19,9 @@ console.log(challengeLower)
 let challengeSliced = challenge.substr(3)
 console.log(challengeSliced)
 
+// q7
+let challengeSliced2 = challenge.substring(0, 3)
+console.log(challengeSliced2)
+
 
 
