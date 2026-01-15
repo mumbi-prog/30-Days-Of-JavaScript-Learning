@@ -11,5 +11,9 @@ console.log(challenge.length)
 let challengeUpper = challenge.toUpperCase()
 console.log(challengeUpper)
 
+// q5
+let challengeLower = challenge.toLowerCase()
+console.log(challengeLower)
+
 
 
