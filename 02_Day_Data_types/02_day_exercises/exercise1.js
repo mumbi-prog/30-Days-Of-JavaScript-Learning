@@ -26,6 +26,12 @@ console.log(challengeSliced2)
 // q8
 console.log(challenge.includes('Script'))
 
+// q9
+console.log(challenge.split())
+
+// q10
+console.log(challenge.split(" "))
+
 
 
 
