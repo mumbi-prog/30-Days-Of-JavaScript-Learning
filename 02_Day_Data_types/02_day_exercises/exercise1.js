@@ -32,6 +32,8 @@ console.log(challenge.split())
 // q10
 console.log(challenge.split(" "))
 
-
+// q11
+let socials = 'Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon'
+console.log(socials.split(", "))
 
 
