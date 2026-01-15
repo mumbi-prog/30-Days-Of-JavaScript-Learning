@@ -23,5 +23,9 @@ console.log(challengeSliced)
 let challengeSliced2 = challenge.substring(0, 3)
 console.log(challengeSliced2)
 
+// q8
+console.log(challenge.includes('Script'))
+
+
 
 
